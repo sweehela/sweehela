@@ -10,48 +10,48 @@
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="C"
+    title="C" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="JS" 
+    title="JS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="GitHub" 
+    title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
   <img 
       align="left" 
-      alt="GitHub Stats" 
-      title="Python"
+      alt="Canva" 
+      title="Canva"
       width="30px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
   />
     <img 
       align="left" 
-      alt="GitHub Stats" 
-      title="Python"
+      alt="Assembly" 
+      title="Assembly"
       width="30px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" 
