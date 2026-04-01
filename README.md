@@ -1,4 +1,4 @@
-# 🦊 Gabriela Bruno 🦊
+# 🦊 Gabriela Bruno
 
 **`Estudante em Tempo Integral`**
 
