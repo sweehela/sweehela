@@ -1,10 +1,4 @@
-# 🦊 Gabriela Bruno
 
-**`Estudante em Tempo Integral`**
-
->
-
----
 
 ### 💻 Linguagens e Tecnologias
 
